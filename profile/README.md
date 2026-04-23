@@ -7,9 +7,11 @@ Turning the jigsaw into a symphony.
 
 ---
 
-## What we do
+## About
 
-Carrot Cake AI is a consultancy that builds production AI systems — agents, automated pipelines, MCP integrations, and workflow orchestration. The individual AI components are increasingly commoditised; the real value is in how they connect. That's the work.
+Carrot Cake AI is the independent AI consultancy of **Daniel Rosehill** — building production AI systems for clients from Jerusalem.
+
+The individual AI components are increasingly commoditised; the real value is in how they connect. That's the work.
 
 **Low-code where it makes sense, custom where it counts.**
 
@@ -25,7 +27,7 @@ Carrot Cake AI is a consultancy that builds production AI systems — agents, au
 - **Observability, monitoring & evaluation** — know what your system is doing
 - **Data storage** — vector, relational, object — chosen for the workload
 
-## Who we work with
+## Who I work with
 
 Startup founders, internal IT teams, product managers, ops leads, CTOs and technical leads who need AI systems that work in production — not demos.
 
@@ -33,7 +35,7 @@ Past and current work includes AllCloud, Dataloop, NetApp, Travis CI, and 15+ ot
 
 ## Principles
 
-- **You own what we build.** Code, prompts, configs, infrastructure — all yours.
+- **You own what I build.** Code, prompts, configs, infrastructure — all yours.
 - **Integration is the product.** Models are commodities; the glue is the craft.
 - **Ship into production.** A prototype that doesn't reach users isn't a win.
 
@@ -41,4 +43,7 @@ Past and current work includes AllCloud, Dataloop, NetApp, Travis CI, and 15+ ot
 
 - Website: [carrotcakeai.com](https://carrotcakeai.com)
 - Email: [daniel@carrotcakeai.com](mailto:daniel@carrotcakeai.com)
-- Team: [team@carrotcakeai.com](mailto:team@carrotcakeai.com)
+
+---
+
+*Carrot Cake AI is a trading name of DSR Holdings (Cloud) — [dsrholdings.cloud](https://dsrholdings.cloud).*
